@@ -1,8 +1,0 @@
-{
-  "name": "hardhat-project",
-  "dependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
-    "@openzeppelin/contracts": "^4.9.0",
-    "dotenv": "^16.1.0"
-  }
-}
